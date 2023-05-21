@@ -1,5 +1,5 @@
 site_name: Climate Tech Handbook
-site_url: https://www.climatetechhandbook.com
+site_url: https://climate-tech-handbook-cms-fork.netlify.app
 site_description: Your community source of truth for climate tech solutions.
 use_directory_urls: True
 theme:
@@ -9,7 +9,6 @@ theme:
     primary: green
   logo: assets/ct-handbook-logo-cropped.png
   favicon: assets/favicon.ico
-  copyright: Copyright 2023 - Differential Design, LLC
   features:
     - navigation.tabs
     #   - navigation.tabs.sticky
@@ -22,7 +21,7 @@ theme:
     repo: fontawesome/brands/git-alt
 
 repo_name: Contribute
-repo_url: https://github.com/climate-tech-handbook/climate-tech-handbook
+repo_url: https://github.com/alexmayberry/climate-tech-handbook-test-deploy
 
 extra_css:
   - stylesheets/extra.css
@@ -32,7 +31,7 @@ extra_css:
 plugins:
   - tags
   - search
-  - social
+  # - social
 markdown_extensions:
   # Python Markdown
   - abbr
