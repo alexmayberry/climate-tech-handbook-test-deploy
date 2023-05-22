@@ -1,1 +1,0 @@
-# Climate Tech Solution
