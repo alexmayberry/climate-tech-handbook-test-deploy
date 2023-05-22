@@ -11,17 +11,16 @@ public_folder: "/img/uploads" # The src attribute for uploaded media will begin 
 collections:
 - name: solutions # Used in routes, e.g., /admin/collections/blog
   label: "Solutions" # Used in the UI
-  folder: "" # The path to the folder where the documents are stored
+  folder: "/" # The path to the folder where the documents are stored
   extension: md
   identifier_field: slug
-  widget: "list"
   create: true # Allow users to create new documents in this collection
   slug: "{{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
   fields: # The fields for each document, usually in front matter
     - { name: body, label: Body, widget: markdown }
 - name: blog
   label: "blog"
-  folder: blog
+  folder: blog/posts
   identifier_field: title
   extension: md
   widget: "list"
