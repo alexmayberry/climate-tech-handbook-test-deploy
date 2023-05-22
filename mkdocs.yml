@@ -98,4 +98,7 @@ nav:
   - "About":
       - About the Handbook: about/index.md
       #     - Frequently Asked Questions: faq.md
-      - Contribute: contribute.md
+      - Contribute: contribute.md'
+
+  - Blog: 
+      - blog/index.md
