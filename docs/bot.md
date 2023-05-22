@@ -1,15 +1,17 @@
 ---
 title: Climate Bot
-description:
+description: null
 authors:
-  - 
-date: 
+  - name: staff
+    description: staff
+    avatar: staff
+date: null
 tags:
-  -
-  -
+  - null
+  - null
 ---
 
-# Climate Bot
+# Climate Bot edited with CMS
 
 ## Ask and you shall receive
 
