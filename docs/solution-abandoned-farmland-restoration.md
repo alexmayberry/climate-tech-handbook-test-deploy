@@ -9,13 +9,14 @@ tags:
   -
 image_alt_text: Abandoned farm
 image_url: img/abandoned-farm.jpg
-image_credit: https://unsplash.com/user/photo
+image_credit: https://unsplash.com/
 caption: This is the caption
 ---
 
-# {{title}}
+# Abandoned Farmland Restoration
 
-![{{image_alt_text}}]({{image_url}})
+![Abandoned farm](img/abandoned-farm.jpg)
+[credit](https://unsplash.com/)
 
 ## Progress Made
 
