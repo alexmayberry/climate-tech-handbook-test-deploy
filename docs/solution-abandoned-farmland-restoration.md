@@ -1,6 +1,21 @@
-# Abandoned Farmland Restoration
+---
+title: Abandoned Farmland Restoration
+description:
+authors:
+  - 
+date: 
+tags:
+  -
+  -
+image_alt_text: Abandoned farm
+image_url: img/abandoned-farm.jpg
+image_credit: https://unsplash.com/user/photo
+caption: This is the caption
+---
 
-![Abandoned farm](img/abandoned-farm.jpg)
+# {{title}}
+
+![{{image_alt_text}}]({{image_url}})
 
 ## Progress Made
 
